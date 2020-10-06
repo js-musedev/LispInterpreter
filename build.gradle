@@ -24,8 +24,8 @@ dependencies {
 
 group = 'edu.osu.cse6341.lispInterpreter'
 version = '1.0-SNAPSHOT'
-sourceCompatibility = 1.14
-targetCompatibility = 1.14
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
 
 publishing {
     publications {
